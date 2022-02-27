@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Sakshi Jain, Web developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>India.</b> 
-<br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web development and problem solving.</p>
+<p>Welcome to my page! </br> <h4>I'm Sakshi Jain, Web developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>India.</b> 
+<br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web development and problem solving.</h4></p>
 
 ## ⚡ Things I code with
 
@@ -32,4 +32,18 @@
 - 📫 How to reach me: jain.sakshii0901@gmail.com
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I know HTML is not a programming language
+
+### Check out these cool stuffs
+
+- [The First Web Page](https://datatracker.ietf.org/doc/html/rfc1983)
+- [Live Internet Stats](https://www.internetlivestats.com/)
+- [Crazy Harry Potter Fan Theories](https://screenrant.com/harry-potter-fan-theories-possibly-true/)
+- [WEB3 Enthusiast??](https://dev.to/bellatrix/series/16596)
+
+<center>
+### A PROGRAMMING JOKE
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wLvklOzz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://private.xtrp.io/projects/DailyDeveloperJokes/public_image_server/images/5e125988c2636.png" alt="joke">
+</center>
+  
+  
   
