@@ -2,6 +2,16 @@
 
 <p>Welcome to my page! </br> <h4>I'm Sakshi Jain, Web developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>India.</b> 
 <br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web development and problem solving.</h4></p>
+<p>
+I am  a passionate programmer 💻 and a web dev enthusiast who loves to develop efficient and robust websites. From very early on in my life, I started to fall in ❤️ with technology. Probably, creating simple programs as a kid was my first exposure to programming.
+   
+Over the years, I have collected several tools 🛠 in my arsenal, as a result I am extremely flexible with technology stack and enjoy developing software for varied platforms.
+</p>
+
+
+```
+First solve the problem, then write the code
+```
 
 ## ⚡ Things I code with
 
@@ -22,8 +32,12 @@
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/uinjkledjoisef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SakshiJain-2161181b1" height="30" width="40" /></a>
-
+<a href="https://dev.to/bellatrix" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="SakshiJain-2161181b1" height="30" width="40" /></a>
 </p>
+
+```
+Truth can be found only at one place: the code
+```
 
 
 - 🔭 I’m currently working on DSA and ProjectHUB
