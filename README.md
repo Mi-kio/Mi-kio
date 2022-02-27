@@ -33,17 +33,32 @@
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I know HTML is not a programming language
 
-### Check out these cool stuffs
+## Check out these cool stuffs
 
 - [The First Web Page](https://datatracker.ietf.org/doc/html/rfc1983)
 - [Live Internet Stats](https://www.internetlivestats.com/)
 - [Crazy Harry Potter Fan Theories](https://screenrant.com/harry-potter-fan-theories-possibly-true/)
 - [WEB3 Enthusiast??](https://dev.to/bellatrix/series/16596)
+- [Developer's Jokes](https://dev.to/dailydeveloperjokes)
+- [Egyptian Mummies](https://youtu.be/-obKX-mqjXQ)
+- [Top 5 discovered checks in chess](https://www.youtube.com/watch?v=fxHZl3SSEB4)
 
-<center>
-### A PROGRAMMING JOKE
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wLvklOzz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://private.xtrp.io/projects/DailyDeveloperJokes/public_image_server/images/5e125988c2636.png" alt="joke">
-</center>
+
+## Because laughing is the best medicine😂🤣
+
+```
+Q - An agent died unexpectedly. How was the crime solved?
+
+A - By looking at the stack trace
+```
+
+<p align="center">
+ Our interests don't match? No worries, I am open to anything under the stars 🌟
+
+Show some ❤️ by starring some of the repositories!
+          </p>
+
+
   
   
   
