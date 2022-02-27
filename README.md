@@ -1,2 +1,35 @@
-# Mi-kio.md
-About me and my projects
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<p>Welcome to my page! </br> I'm Sakshi Jain, Web developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>India.</b> 
+<br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web development and problem solving.</p>
+
+## ⚡ Things I code with
+
+<p>
+   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+   <img alt="CSS" src="https://img.shields.io/badge/-CSS-764ABC?style=flat-square&logo=CSS3&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
+</p>
+
+<img alt="contribution" src="https://github.com/ragavkumarv/ragavkumarv/blob/output/github-contribution-grid-snake.svg" />
+
+
+
+<h2 align="left">Connect with me ❤️</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/uinjkledjoisef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SakshiJain-2161181b1" height="30" width="40" /></a>
+
+</p>
+
+
+- 🔭 I’m currently working on DSA and ProjectHUB
+- 🌱 I’m currently learning DSA and MERN
+- 💬 Ask me about Azure and DSA
+- 📫 How to reach me: jain.sakshii0901@gmail.com
+- 😄 Pronouns: She/her/hers
+- ⚡ Fun fact: I know HTML is not a programming language
+  
