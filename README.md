@@ -54,8 +54,7 @@ A - By looking at the stack trace
 
 <p align="center">
  Our interests don't match? No worries, I am open to anything under the stars 🌟
-
-Show some ❤️ by starring some of the repositories!
+ Show some ❤️ by starring some of the repositories!
           </p>
 
 
