@@ -53,7 +53,7 @@ A - By looking at the stack trace
 ```
 
 <p align="center">
- Our interests don't match? No worries, I am open to anything under the stars 🌟
+ Our interests don't match? No worries, I am open to anything under the stars 🌟<br>
  Show some ❤️ by starring some of the repositories!
           </p>
 
