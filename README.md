@@ -58,6 +58,7 @@ Truth can be found only at one place: the code
 - [Developer's Jokes](https://dev.to/dailydeveloperjokes)
 - [Egyptian Mummies](https://youtu.be/-obKX-mqjXQ)
 - [Top 5 discovered checks in chess](https://www.youtube.com/watch?v=fxHZl3SSEB4)
+- [HTTP Status Dogs](https://httpstatusdogs.com/)
 
 
 ## Because laughing is the best medicine😂🤣
