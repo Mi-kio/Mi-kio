@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 
-<p>Welcome to my page! </br> <h4>I'm Sakshi Jain, Web developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>India.</b> 
+<p>Welcome to my page! </br> <h4>I'm Sakshi Jain, Web developer with the right mix of Functional programming from  <b>India.</b> 
 <br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web dev and problem solving.</h4></p>
 <p>
 I am  a passionate programmer 💻 and a web dev enthusiast who loves to develop efficient and robust websites. From very early on in my life, I started to fall in ❤️ with technology. Probably, creating simple programs as a kid was my first exposure to programming.
