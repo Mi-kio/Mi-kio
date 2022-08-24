@@ -36,6 +36,9 @@ First solve the problem, then write the code
 </p>
 
 
+```
+Truth can be found only at one place: the code
+```
 
 
 <h3 align="left">Languages and Tools:</h3>
