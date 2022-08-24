@@ -58,6 +58,8 @@ Truth can be found only at one place: the code
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mi-kio&show_icons=true&locale=en" alt="mi-kio" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mi-kio&" alt="mi-kio" /></p>
+
 
 ## Because laughing is the best medicine😂🤣
 
@@ -67,8 +69,6 @@ Q - An agent died unexpectedly. How was the crime solved?
 A - By looking at the stack trace
 ```
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mi-kio&" alt="mi-kio" /></p>
 
 
 
