@@ -56,9 +56,7 @@ Truth can be found only at one place: the code
 - [Top 5 discovered checks in chess](https://www.youtube.com/watch?v=fxHZl3SSEB4)
 - [HTTP Status Dogs](https://httpstatusdogs.com/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mi-kio&show_icons=true&locale=en" alt="mi-kio" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mi-kio&" alt="mi-kio" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mi-kio&show_icons=true&locale=en" alt="mi-kio" /></p>
 
 
 ## Because laughing is the best medicine😂🤣
@@ -69,7 +67,7 @@ Q - An agent died unexpectedly. How was the crime solved?
 A - By looking at the stack trace
 ```
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mi-kio&" alt="mi-kio" /></p>
 
 
 <p align="center">
