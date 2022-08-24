@@ -1,80 +1,35 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
+<h1 align="center">Hi 👋, I'm Sakshi Jain</h1>
+<h3 align="center">I'm Sakshi Jain, Web developer with the right mix of Functional programming from India. Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web dev and problem solving. I am a passionate programmer 💻 and a web dev enthusiast who loves to develop efficient and robust websites. From very early on in my life, I started to fall in ❤️ with technology. Probably, creating simple programs as a kid was my first exposure to programming. Over the years, I have collected several tools 🛠 in my arsenal, as a result I am extremely flexible with technology stack and enjoy developing software for varied platforms.</h3>
 
-<p>Welcome to my page! </br> <h4>I'm Sakshi Jain, Web developer with the right mix of Functional programming from  <b>India.</b> 
-<br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web dev and problem solving.</h4></p>
-<p>
-I am  a passionate programmer 💻 and a web dev enthusiast who loves to develop efficient and robust websites. From very early on in my life, I started to fall in ❤️ with technology. Probably, creating simple programs as a kid was my first exposure to programming.
-   
-Over the years, I have collected several tools 🛠 in my arsenal, as a result I am extremely flexible with technology stack and enjoy developing software for varied platforms.
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mi-kio&label=Profile%20views&color=0e75b6&style=flat" alt="mi-kio" /> </p>
 
+- 🔭 I’m currently working on **ProjectHUB**
 
-```
-First solve the problem, then write the code
-```
+- 🌱 I’m currently learning **MERN, Azure**
 
-## ⚡ Things I code with
+- 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
 
-<p>
-   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-   <img alt="CSS" src="https://img.shields.io/badge/-CSS-764ABC?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
-</p>
+- 💬 Ask me about **DSA, Java, JS**
 
-<img alt="contribution" src="https://github.com/ragavkumarv/ragavkumarv/blob/output/github-contribution-grid-snake.svg" />
+- 📫 How to reach me **jain.sakshii0901@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/sakshi9ain/](https://www.linkedin.com/in/sakshi9ain/)
 
+- ⚡ Fun fact **I know HTML is not a programming language**
 
-<h2 align="left">Connect with me ❤️</h2>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/uinjkledjoisef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SakshiJain-2161181b1" height="30" width="40" /></a>
-<a href="https://dev.to/bellatrix" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="SakshiJain-2161181b1" height="30" width="40" /></a>
+<a href="https://dev.to/bellatrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bellatrix" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sakshi9ain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi9ain" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/1116_sakshi_jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1116_sakshi_jain" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sakshijdkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshijdkd" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-```
-Truth can be found only at one place: the code
-```
-
-
-- 🔭 I’m currently working on DSA and ProjectHUB
-- 🌱 I’m currently learning DSA and MERN
-- 💬 Ask me about Azure and DSA
-- 📫 How to reach me: jain.sakshii0901@gmail.com
-- 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: I know HTML is not a programming language
-
-## Check out these cool stuffs
-
-- [The First Web Page](https://datatracker.ietf.org/doc/html/rfc1983)
-- [Live Internet Stats](https://www.internetlivestats.com/)
-- [Crazy Harry Potter Fan Theories](https://screenrant.com/harry-potter-fan-theories-possibly-true/)
-- [WEB3 Enthusiast??](https://dev.to/bellatrix/series/16596)
-- [Developer's Jokes](https://dev.to/dailydeveloperjokes)
-- [Egyptian Mummies](https://youtu.be/-obKX-mqjXQ)
-- [Top 5 discovered checks in chess](https://www.youtube.com/watch?v=fxHZl3SSEB4)
-- [HTTP Status Dogs](https://httpstatusdogs.com/)
-
-
-## Because laughing is the best medicine😂🤣
-
-```
-Q - An agent died unexpectedly. How was the crime solved?
-
-A - By looking at the stack trace
-```
-
-<p align="center">
- Our interests don't match? No worries, I am open to anything under the stars 🌟<br>
- Show some ❤️ by starring some of the repositories!
-          </p>
-
-
-  
-  
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mi-kio&" alt="mi-kio" /></p>
