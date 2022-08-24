@@ -56,6 +56,9 @@ Truth can be found only at one place: the code
 - [Top 5 discovered checks in chess](https://www.youtube.com/watch?v=fxHZl3SSEB4)
 - [HTTP Status Dogs](https://httpstatusdogs.com/)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mi-kio&show_icons=true&locale=en" alt="mi-kio" /></p>
+
+
 ## Because laughing is the best medicine😂🤣
 
 ```
