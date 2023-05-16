@@ -32,7 +32,7 @@ First solve the problem, then write the code
 <a href="https://dev.to/bellatrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bellatrix" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakshi9ain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi9ain" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/1116_sakshi_jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1116_sakshi_jain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sakshijdkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshijdkd" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/sakshijdkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshijdkd" height="30" width="40" /></a> -->
 </p>
 
 
