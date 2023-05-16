@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ProjectHUB**
 
-- 🌱 I’m currently learning **MERN, Azure**
+- 🌱 I’m currently learning **MEAN stack**
 
 - 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
 
