@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jain.sakshii0901@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sakshi9ain/](https://www.linkedin.com/in/sakshi9ain/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sakshijain/](https://www.linkedin.com/in/sakshijain/)
 
 - ⚡ Fun fact **I know HTML is not a programming language**
 
