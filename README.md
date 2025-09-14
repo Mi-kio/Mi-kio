@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MEAN stack**
 
-- 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
+- 📝 I regularly write articles on [dev.to/jainsakshi](https://dev.to/jainsakshi)
 
-- 💬 Ask me about **DSA, Java, JS**
+- 💬 Ask me about **DSA, Java, JS, C++, Python, AngularJS**
 
 - 📫 How to reach me **jain.sakshii0901@gmail.com**
 
